@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="BrOffice.org 3.2  (Win32)">
+	<META NAME="AUTHOR" CONTENT="compras07">
+	<META NAME="CREATED" CONTENT="0;0">
+	<META NAME="CHANGED" CONTENT="20210520;9452700">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 21cm 29.7cm; margin-left: 1cm; margin-right: 1cm }
+		P { margin-bottom: 0cm; text-align: justify }
+		P.western { font-family: "Times New Roman", serif; font-size: 14pt; so-language: pt-BR }
+		P.cjk { font-family: "Times New Roman", serif; font-size: 14pt; so-language: ar-SA }
+		P.ctl { font-family: "Times New Roman", serif; font-size: 10pt }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="pt-BR" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-left: 0.5cm; margin-right: -0cm; border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm; page-break-before: always">
+<BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-left: 0.5cm; margin-right: -0cm"><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>PREFEITURA
+MUNICIPAL DE VERA - MT</B></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>AVISO
+DE RESULTADO - PREG&Atilde;O PRESENCIAL N&ordm; 021/2021</B></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><A NAME="_Hlk65483038"></A><A NAME="_Hlk72394601"></A>
+ <FONT FACE="Calibri, sans-serif"><FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">O
+MUNIC&Iacute;PIO DE VERA &ndash; MT, por meio de seu Pregoeiro,
+nomeado pela Portaria n&ordm; 015/2021, torna p&uacute;blico o
+resultado do Preg&atilde;o Presencial n&ordm; 021/2021, Registro de
+Pre&ccedil;os n&ordm; 023/2021, tipo menor pre&ccedil;o por item,
+cujo objeto destina-se a </FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>FUTURA
+E EVENTUAL CONTRATA&Ccedil;&Atilde;O DE EMPRESA ESPECIALIZADA NO
+TRANSPORTE/FRETE DE CALC&Aacute;RIO A SER DISTRIBU&Iacute;DO AOS
+PEQUENOS PRODUTORES, COOPERATIVAS E COMUNIDADES AGR&Iacute;COLAS DO
+MUNIC&Iacute;PIO DE VERA - MT</B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">,
+</FONT></FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">cuja
+abertura se deu em 12/05/2021, sagrou-se vencedora a empresa
+</FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>TRANSPORTADORA
+E. F. LTDA - ME</B></FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">,</FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>
+</B></FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">inscrita
+no CNPJ n&ordm; 22.674.732/0001-08,</FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">
+</FONT></FONT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">conforme
+segue:</FONT></FONT></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+<TABLE WIDTH=100% BORDER=1 BORDERCOLOR="#000000" CELLPADDING=7 CELLSPACING=0>
+	<COL WIDTH=18*>
+	<COL WIDTH=119*>
+	<COL WIDTH=25*>
+	<COL WIDTH=36*>
+	<COL WIDTH=57*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=7%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>ITEM</B></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=46%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>ESPECIFICA&Ccedil;&Atilde;O</B></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=10%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>UND</B></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=14%>
+			<P ALIGN=LEFT><FONT SIZE=3><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>QUANTIDADE</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=22%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>VALOR
+			UNIT&Aacute;RIO </B></FONT></FONT>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=7%>
+			<P ALIGN=LEFT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">01</FONT></FONT></P>
+		</TD>
+		<TD WIDTH=46%>
+			<P ALIGN=LEFT><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">Servi&ccedil;o
+			de transporte/frete de Calc&aacute;rio; </FONT></FONT>
+			</P>
+		</TD>
+		<TD WIDTH=10%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">Tonelada</FONT></FONT></P>
+		</TD>
+		<TD WIDTH=14%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">1.000</FONT></FONT></P>
+		</TD>
+		<TD WIDTH=22%>
+			<P ALIGN=CENTER><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">R$
+			87,50</FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">Vera
+- MT, 17 de maio de 2021.</FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt"><B>JOEDSON
+AMARAL DE OLIVEIRA</B></FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><FONT FACE="Arial, sans-serif"><FONT SIZE=1 STYLE="font-size: 6pt">PREGOEIRO
+&ndash; PORTARIA N&ordm; 015/2021</FONT></FONT></P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm; border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<BR>
+</P>
+<P CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 2.5cm"><BR>
+</P>
+</BODY>
+</HTML>
